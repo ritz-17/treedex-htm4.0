@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TreeDex</string>
+    <string name="location_which_is_chosen">Location which is chosen</string>
+    <string name="next">NEXT</string>
+</resources>
