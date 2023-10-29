@@ -8,7 +8,10 @@ App Description
 The app is designed to [briefly describe the app's main purpose and features].
 
 Figma UI Design
-You can view the basic UI design of the app on Figma: Figma UI Design
+You can view the basic UI design of the app on Figma: Figma UI Design'
+https://www.figma.com/file/XDO9cGO2Vux6yG1MAzaVaT/TREEDEX-%40HTM4.0?type=design&node-id=0%3A1&mode=design&t=KxiSE3FPzvRW93z9-1
+
+
 TFLite Model Integration
 
 Our app leverages a TFLite (TensorFlow Lite) model to enable [mention the purpose of using the model, e.g., image recognition, natural language processing, etc.]. Here's how you can integrate it:
